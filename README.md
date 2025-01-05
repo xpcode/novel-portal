@@ -8,7 +8,7 @@
 
 ### 数据统计面板
 
-![数据统计面板](./images/dashboard.png)
+<img src="https://raw.githubusercontent.com/xpcode/novel-portal/refs/heads/main/adm.png" width="600" alt="数据统计面板" />
 
 _数据面板包含：_
 
